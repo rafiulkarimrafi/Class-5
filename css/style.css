@@ -1,0 +1,37 @@
+body{ 
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width: 80%;
+    margin: auto;
+    
+}
+.icon-area ul{
+    list-style: none;
+
+}
+.icon-area ul li{
+    display: inline-block;
+
+}
+.icon-area ul li a{
+    color: antiquewhite; 
+    background: red;
+    font-size: 40px;
+    padding: 30px 40px;
+    display: block;
+    border-radius: 50%;
+
+}
+.icon-area ul li a:hover{
+    color:black;
+    background: burlywood;
+    border-radius: 10px;
+    
+
+   
+
+
+}
